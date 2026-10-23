@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 17.0.20.1
+Implementation-Title: API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/API
+Created-By: Maven Integration for Eclipse
+
